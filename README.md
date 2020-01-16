@@ -13,9 +13,10 @@
 
 | subject | term | detail |
 | - | - | - |
-| C | 3+ years | for made WebAPI products. for hobby. <br>(pointer, structure, APR, UEFI prgramming) |
-| Ruby | 2+ years | for made WebAPI products and Document, billing system, informational system. <br>(MetaProgramming, Sinatra, Rails, middleman, RSpec, etc...) |
-| C++<br> Python<br> Java<br> JavaScript<br> Bash<br> batch<br> PowerScript<br> nasm | 1+ month | a little. |
+| C | 3+ years | for made WebAPI products. for hobby. <br>(APR) |
+| Ruby | 2+ years | for made WebAPI products and Document, billing system, informational system. <br>(Sinatra, middleman, RSpec, etc...) |
+| Rust | 6+ month | for hobby. |
+| etc. | 1+ month | a little. (https://github.com/awrznc/scribble) |
 
 ### OS
 
@@ -23,16 +24,16 @@
 | - | - | - |
 | Windows | 10+ years | for works and hobby. (XP, 7, 10) |
 | Mac | 2+ years | for works. (Sierra) |
-| Linux | 5+ years | for works and hobby. (CentOS6, CentOS7, Debian) |
+| Linux | 5+ years | for works and hobby. (CentOS6, CentOS7, Debian7, Ubuntu14) |
 
 ### Other
 
 | subject | term | detail |
 | - | - | - |
 | AWS | 2+ years | for works. <br>(serverless framework, VPC, EC2, Lambda, API Gateway, DynamoDB, S3, Athena, etc...) |
-| Azure | 1+ years | a little. (Virtual Machines) |
+| Azure | 1+ years |  for works. a little. (Virtual Machines) |
 | PostgreSQL | 1+ years | for works. |
-| CLIP STUDIO PAINT | 1+ years | for hobby. (have 7+ years of experience to IllustStudio.) |
+| CLIP STUDIO PAINT | 2+ years | for hobby. (have 7+ years of experience to IllustStudio.) |
 
 ### Works
 
@@ -48,6 +49,7 @@
 * Docker
 * Slack
 * Git
+* Github(Actions)
 * Wercker
 * Pingdom
 * mackerel
